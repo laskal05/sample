@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tesseract": "node ./tesseract/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laskal05/sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laskal05/sample/issues"
+  },
+  "homepage": "https://github.com/laskal05/sample#readme",
+  "dependencies": {
+    "tesseract.js": "^1.0.10"
+  }
+}
